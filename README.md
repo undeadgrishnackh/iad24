@@ -12,9 +12,8 @@ Before the talk, I set the stage with my usual [teaser](https://www.linkedin.com
 
 ## 🎥 Talk Recording
 
-Slides: [Stop Transforming Start Evolving](https://www.slideshare.net/slideshow/iad24-stop-transforming-start-evolving/273309282)
-
-🙅‍♂️ TBD - Vimeo: [Stop Transforming Start Evolving]()
+- Slides: [Stop Transforming Start Evolving](https://www.slideshare.net/slideshow/iad24-stop-transforming-start-evolving/273309282)
+- Vimeo: [Stop Transforming Start Evolving](https://vimeo.com/1030487816)
 
 ![talk](iad24_talk.jpg)
 
